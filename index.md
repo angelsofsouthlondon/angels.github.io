@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/angelsofsouthlondon/angels.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can see our social profiles
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/angelsofsouthlondon/angels.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Angels of South London](https://angelsofsouthlondon.com/)							
+[Blogspot](https://angelsofsouthlondon.blogspot.com/)							
+[Twitter](https://twitter.com/AngelsOfSouthL1)							
+[Wordpress](https://angelsofsouthlondon.wordpress.com/)							
+[Gravatar](https://en.gravatar.com/angelsofsouthlondon)							
+[Tumblr](https://www.tumblr.com/blog/angelsofsouthlondon)							
+[Diigo Profile](https://www.diigo.com/profile/southlondonangel)							
+[Diigo User](https://www.diigo.com/user/southlondonangel)							
+[Evernote](https://www.evernote.com/shard/s728/sh/1e8be4f8-581b-3014-6347-f89fe947183d/8d17341f9c8a7d5ba6f05dfc937ab67c)							
+[Pocket](https://getpocket.com/@2ejd0p61TcQ82g9411A29eWA7ag0T5b5748F03c0x5u129xaMR349X9bO05IXa48?src=navbar)							
+[Google Drive](https://drive.google.com/drive/folders/1PzDVJ4HmTGt8qSCfya7XNL6Syzk0cRMZ?usp=sharing)							
+[Instapaper](https://www.instapaper.com/p/9074508)							
+[Trello](https://trello.com/b/PNh08YzG/my-profiles)							
+[Pearltrees](https://www.pearltrees.com/angelsofsouthlondon)							
+[Behance](https://www.behance.net/angelslondon)							
+[About.me](https://about.me/angelsofsouthlondon)							
+[Linktree](https://linktr.ee/angelsofsouthlondon)							
+[Livejournal](https://angelsofsouth.livejournal.com/467.html)							
+[Ello](https://ello.co/angelsofsouthlondon)							
+[Numbus](https://nimbusweb.me/s/share/5607701/8t6nbs1qgofp3aibypwg)							
+[Dribble](https://dribbble.com/angelsofsouthlondon)							
+[Loom](https://www.loom.com/share/5c6df5766fbd40a0a73073fd50896fec)							
+[Linkbio](https://lnk.bio/nGMJ)			
